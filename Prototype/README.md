@@ -5,7 +5,7 @@ Users can browse public events, log in as a user to receive personalized recomme
 
 ## Requirements
 
-- Node.js v16+
+- Node.js v16+ (https://nodejs.org/en/download)
 - npm (Node Package Manager)
 
 ## How to Run the App
