@@ -10,7 +10,7 @@ Users can browse public events, log in as a user to receive personalized recomme
 
 ## How to Run the App
 
-### 1. Open a terminal in the project folder
+### 1. Open a terminal in the project folder in any programming environment
 
 Navigate to the root folder event-hub
 
