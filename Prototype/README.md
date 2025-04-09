@@ -3,6 +3,11 @@
 A React app for exploring and managing events, styled using **Tailwind CSS**.
 Users can browse public events, log in as a user to receive personalized recommendations, or log in as an organizer to create new events.
 
+## Requirements
+
+- Node.js v16+
+- npm (Node Package Manager)
+
 ## How to Run the App
 
 ### 1. Open a terminal in the project folder
